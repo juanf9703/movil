@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "401136252306",
+    "project_id": "crudapp11111",
+    "storage_bucket": "crudapp11111.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401136252306:android:709f2cd3ca4b0b0410fd4b",
+        "android_client_info": {
+          "package_name": "com.ceduc.crudapp_1111"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOgp9c29WUCMc-qmzO7819OGPkrYvx5AM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401136252306:android:021fd30f2894161810fd4b",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOgp9c29WUCMc-qmzO7819OGPkrYvx5AM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401136252306:android:4b0bf569fdb8f6c010fd4b",
+        "android_client_info": {
+          "package_name": "com.example.fi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOgp9c29WUCMc-qmzO7819OGPkrYvx5AM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401136252306:android:c62279994c0302eb10fd4b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOgp9c29WUCMc-qmzO7819OGPkrYvx5AM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401136252306:android:aa7da877138ee6ab10fd4b",
+        "android_client_info": {
+          "package_name": "com.example.limpieza"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOgp9c29WUCMc-qmzO7819OGPkrYvx5AM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
